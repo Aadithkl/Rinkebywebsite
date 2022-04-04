@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x21C04A9c93AE3C4E384a90EAAe4DCA5b087f7445",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x21C04A9c93AE3C4E384a90EAAe4DCA5b087f7445",
   "NETWORK": {
-    "NAME": "MUMBAI",
+    "NAME": "Rinkeby",
     "SYMBOL": "ETH",
     "ID": 4
   },
